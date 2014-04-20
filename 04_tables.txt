@@ -1,0 +1,48 @@
+
+
+
+
+
+
+
+
+The next step after that would be to create a questionnaire, which looks like this:
+
+
+File: question.php
+--------------------------------------------
+What is the capital of Leyte?
+<br><a href=wrong1.php>Catbalogan</a>
+<br><a href=right1.php>Tacloban</a>
+--------------------------------------------
+Clicking on Tabontabon will take you to wrong.php, which looks like this:
+File: right.php
+--------------------------------------------
+WRONG!!! 
+<br><a href=question1.php>back</a>
+<br><a href=question2.php>next</a>
+--------------------------------------------
+Clicking on Tacloban will take you to right.php, which looks like this:
+File: right.php
+--------------------------------------------
+RIGHT!!!
+<br><a href=question2.php>next</a>
+--------------------------------------------
+and of course, question2.php contains another question.
+--------------------------------------------
+File: question2.php
+--------------------------------------------
+What is the capital of Samar
+<br><a href=right2.php>Catbalogan</a>
+<br><a href=wrong2.php>Tacloban</a>
+--------------------------------------------
+File: wrong2.php
+--------------------------------------------
+WRONG!!!
+<br><a href=question2.php>back</a>
+--------------------------------------------
+File: right2.php
+--------------------------------------------
+RIGHT!!!
+
+

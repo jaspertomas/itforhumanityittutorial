@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1.gif</key>
+	<string>100</string>
+	<key>1.gif-order</key>
+	<string>0</string>
+	<key>2.gif</key>
+	<string>100</string>
+	<key>2.gif-order</key>
+	<string>1</string>
+	<key>3.gif</key>
+	<string>100</string>
+	<key>3.gif-order</key>
+	<string>2</string>
+	<key>4.gif</key>
+	<string>100</string>
+	<key>4.gif-order</key>
+	<string>3</string>
+	<key>5.gif</key>
+	<string>100</string>
+	<key>5.gif-order</key>
+	<string>4</string>
+	<key>5a.gif</key>
+	<string>100</string>
+	<key>5a.gif-order</key>
+	<string>5</string>
+	<key>7.gif</key>
+	<string>100</string>
+	<key>7.gif-order</key>
+	<string>6</string>
+	<key>7a.gif</key>
+	<string>100</string>
+	<key>7a.gif-order</key>
+	<string>7</string>
+	<key>8.gif</key>
+	<string>100</string>
+	<key>8.gif-order</key>
+	<string>8</string>
+	<key>8a.gif</key>
+	<string>200</string>
+	<key>8a.gif-order</key>
+	<string>9</string>
+	<key>Disposal_Method</key>
+	<string>0</string>
+	<key>Number_Of_Loops</key>
+	<string>-1</string>
+</dict>
+</plist>
